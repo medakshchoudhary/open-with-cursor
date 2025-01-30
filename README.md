@@ -1,6 +1,6 @@
 # Cursor Context Menu Integration
 
-A simple Windows utility to add/remove "Open with Cursor" to your right-click context menu. This allows you to quickly open folders in [Cursor Editor](https://cursor.sh/).
+A simple Windows utility to add/remove "Open with Cursor" to your shift + right-click context menu. This allows you to quickly open folders in [Cursor Editor](https://cursor.sh/).
 
 ## Features
 
